@@ -1,0 +1,13 @@
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.exe
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.deps.json
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.runtimeconfig.json
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.runtimeconfig.dev.json
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.dll
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\bin\Debug\netcoreapp3.1\IndianSensusAnalyser.pdb
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.csproj.AssemblyReference.cache
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.AssemblyInfoInputs.cache
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.AssemblyInfo.cs
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.dll
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.pdb
+C:\Users\INFINITY\source\repos\IndianSensusAnalyser\obj\Debug\netcoreapp3.1\IndianSensusAnalyser.genruntimeconfig.cache
